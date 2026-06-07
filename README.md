@@ -1991,4 +1991,5 @@ python llmexport.py --path /path/to/模型路径/ --export mnn --hqq --dst_path 
 本项目采用 [Apache License 2.0](LICENSE) 开源协议。
 
 
-hahahahahahihi
+hahahaha
+hushuobadao
