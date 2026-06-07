@@ -1992,4 +1992,5 @@ python llmexport.py --path /path/to/模型路径/ --export mnn --hqq --dst_path 
 
 
 hahahaha
-hushuobadao
+hushuobadao 
+hu
